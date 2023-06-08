@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+
+canvas{
+    background-color: red;
+    border-top: 5px solid skyblue;
+    border-bottom: 5px solid skyblue ;
+    width: 900px;
+    height: 700px;
+}
+body{
+    text-align: center;
+}
